@@ -5,6 +5,7 @@
 ##📌OverView
 
 This is a responsive portfolio website built using HTML, CSS, and JavaScript, featuring:
+
 - ✅ Smooth navigation
 - ✅ Contact form with EmailJS integration
 - ✅ Mobile-friendly design
@@ -23,24 +24,24 @@ This is a responsive portfolio website built using HTML, CSS, and JavaScript, fe
 
  - Live Demo
    
-https://punithnmnp1.github.io/Portfolio/
+  https://punithnmnp1.github.io/Portfolio/
 
  - Local Setup:VS Code Recomended
    
- a.Clone the Repo:
+  a.Clone the Repo:
    =>git clone https://github.com/punithnmnp1/Portfolio.git
    
- b.Open in VS Code
+  b.Open in VS Code
  
- c.Install Live Server extension
+  c.Install Live Server extension
  
- d.Right click index.html=> open with live server
+  d.Right click index.html=> open with live server
  
- -Directl Browser Access
+ - Directl Browser Access
  
-  a. Download the Zip
+   a. Download the Zip
   
-  b. Open index.html in Chrome
+   b. Open index.html in Chrome
   
 
  ##📜License
