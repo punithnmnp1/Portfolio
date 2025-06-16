@@ -1,8 +1,8 @@
-##Portfolio
+# Portfolio
 ![image](https://github.com/user-attachments/assets/c2ffab3b-3609-4591-96c2-e498075f713c)
 
 
-##📌OverView
+# 📌OverView
 
 This is a responsive portfolio website built using HTML, CSS, and JavaScript, featuring:
 
@@ -11,7 +11,7 @@ This is a responsive portfolio website built using HTML, CSS, and JavaScript, fe
 - ✅ Mobile-friendly design
 - ✅ Interactive project showcase
 
-##👨‍💻Technologies Used
+# 👨‍💻Technologies Used
 
 - HTML5        :  Structure & content
 - CSS3         :  Styling & animations
@@ -20,7 +20,7 @@ This is a responsive portfolio website built using HTML, CSS, and JavaScript, fe
 - Font         :  Awesome	Icons
 - Google Fonts :	Typography
 
-##🚀How to run the project
+# 🚀How to run the project
 
  - Live Demo
    
@@ -44,11 +44,11 @@ This is a responsive portfolio website built using HTML, CSS, and JavaScript, fe
    b. Open index.html in Chrome
   
 
- ##📜License
+ # 📜License
  
  This project is open-source under the MIT License.
 
- ##📩Contact
+ # 📩Contact
  
  For support,
  
