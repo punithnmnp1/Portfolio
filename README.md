@@ -37,7 +37,7 @@ This is a responsive portfolio website built using HTML, CSS, and JavaScript, fe
  
    d.Right click index.html=> open with live server
  
- - Directl Browser Access
+ - Direct Browser Access
  
    a. Download the Zip
   
