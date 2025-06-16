@@ -72,6 +72,7 @@ document.addEventListener('DOMContentLoaded', function() {
             emailjs.sendForm('service_2727eb8', 'template_7j17mi4', this)
                 .then(function(response) {
                     // Success handling
+                    window.location.href='thank-you.html';
                     showAlert('success', 'Message sent successfully!');
                     contactForm.reset();
                 })
