@@ -21,14 +21,27 @@ This is a responsive portfolio website built using HTML, CSS, and JavaScript, fe
 
 ##🚀How to run the project
 
- 1.Live Demo
+ - Live Demo
+   
 https://punithnmnp1.github.io/Portfolio/
-2.Local Setup:VS Code Recomended
+
+ - Local Setup:VS Code Recomended
+   
  a.Clone the Repo:
    =>git clone https://github.com/punithnmnp1/Portfolio.git
+   
  b.Open in VS Code
+ 
  c.Install Live Server extension
+ 
  d.Right click index.html=> open with live server
+ 
+ -Directl Browser Access
+ 
+  a. Download the Zip
+  
+  b. Open index.html in Chrome
+  
 
  ##📜License
  
@@ -37,6 +50,7 @@ https://punithnmnp1.github.io/Portfolio/
  ##📩Contact
  
  For support,
+ 
   - email: punithmmp2025@gmail.com
   - GitHub: @punithnmnp1
   - LinkedIn: Punith Kumar
