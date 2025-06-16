@@ -28,14 +28,14 @@ This is a responsive portfolio website built using HTML, CSS, and JavaScript, fe
 
  - Local Setup:VS Code Recomended
    
-  a.Clone the Repo:
-   =>git clone https://github.com/punithnmnp1/Portfolio.git
+   a.Clone the Repo:
+      =>git clone https://github.com/punithnmnp1/Portfolio.git
    
-  b.Open in VS Code
+   b.Open in VS Code
  
-  c.Install Live Server extension
+   c.Install Live Server extension
  
-  d.Right click index.html=> open with live server
+   d.Right click index.html=> open with live server
  
  - Directl Browser Access
  
