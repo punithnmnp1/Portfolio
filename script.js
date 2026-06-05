@@ -69,7 +69,7 @@ document.addEventListener('DOMContentLoaded', function() {
             // =============================================
             // 5. EMAILJS SEND REQUEST
             // =============================================
-            emailjs.sendForm('service_2727eb8', 'template_7j17mi4', this)
+            emailjs.sendForm('service_pmzix6k', 'template_7dusn7k', this)
                 .then(function(response) {
                     // Success handling
                     window.location.href='thank-you.html';
